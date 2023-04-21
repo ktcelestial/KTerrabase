@@ -1,0 +1,500 @@
+1	BitcoinBitcoin	BTC
+2	EthereumEthereum	ETH
+3	TetherTether	USDT
+4	Binance CoinBinance Coin	BNB
+5	CardanoCardano	ADA
+6	XRPXRP	XRP
+7	DogecoinDogecoin	DOGE
+8	USD CoinUSD Coin	USDC
+9	PolkadotPolkadot	DOT
+10	UniswapUniswap	UNI
+11	Binance USDBinance USD	BUSD
+12	Bitcoin CashBitcoin Cash	BCH
+13	ChainlinkChainlink	LINK
+14	SolanaSolana	SOL
+15	LitecoinLitecoin	LTC
+16	Wrapped BitcoinWrapped Bitcoin	WBTC
+17	Internet ComputerInternet Computer	ICP
+18	Ethereum ClassicEthereum Classic	ETC
+19	PolygonPolygon	MATIC
+20	StellarStellar	XLM
+21	THETATHETA	THETA
+22	VeChainVeChain	VET
+23	FilecoinFilecoin	FIL
+24	TerraTerra	LUNA
+25	DaiDai	DAI
+26	TRONTRON	TRX
+27	AaveAave	AAVE
+28	MoneroMonero	XMR
+29	EOSEOS	EOS
+30	FTX TokenFTX Token	FTT
+31	PancakeSwapPancakeSwap	CAKE
+32	Crypto.com CoinCrypto.com Coin	CRO
+33	The GraphThe Graph	GRT
+34	MakerMaker	MKR
+35	NeoNeo	NEO
+36	Bitcoin BEP2Bitcoin BEP2	BTCB
+37	SHIBA INUSHIBA INU	SHIB
+38	KlaytnKlaytn	KLAY
+39	CosmosCosmos	ATOM
+40	TezosTezos	XTZ
+41	Bitcoin SVBitcoin SV	BSV
+42	UNUS SED LEOUNUS SED LEO	LEO
+43	Axie InfinityAxie Infinity	AXS
+44	AlgorandAlgorand	ALGO
+45	AvalancheAvalanche	AVAX
+46	CompoundCompound	COMP
+47	AmpAmp	AMP
+48	IOTAIOTA	MIOTA
+49	BitTorrentBitTorrent	BTT
+50	ElrondElrond	EGLD
+51	Hedera HashgraphHedera Hashgraph	HBAR
+52	Huobi TokenHuobi Token	HT
+53	TerraUSDTerraUSD	UST
+54	KusamaKusama	KSM
+55	QuantQuant	QNT
+56	DecredDecred	DCR
+57	WavesWaves	WAVES
+58	DashDash	DASH
+59	ChilizChiliz	CHZ
+60	THORChainTHORChain	RUNE
+61	StacksStacks	STX
+62	NEMNEM	XEM
+63	Theta FuelTheta Fuel	TFUEL
+64	ZcashZcash	ZEC
+65	CelsiusCelsius	CEL
+66	OKBOKB	OKB
+67	HoloHolo	HOT
+68	SushiSwapSushiSwap	SUSHI
+69	DecentralandDecentraland	MANA
+70	HeliumHelium	HNT
+71	Enjin CoinEnjin Coin	ENJ
+72	TrueUSDTrueUSD	TUSD
+73	yearn.financeyearn.finance	YFI
+74	SynthetixSynthetix	SNX
+75	NEAR ProtocolNEAR Protocol	NEAR
+76	FlowFlow	FLOW
+77	NexoNexo	NEXO
+78	ZilliqaZilliqa	ZIL
+79	Basic Attention TokenBasic Attention Token	BAT
+80	QtumQtum	QTUM
+81	Bitcoin GoldBitcoin Gold	BTG
+82	XinFin NetworkXinFin Network	XDC
+83	TelcoinTelcoin	TEL
+84	BancorBancor	BNT
+85	Paxos StandardPaxos Standard	PAX
+86	RavencoinRavencoin	RVN
+87	CeloCelo	CELO
+88	KuCoin TokenKuCoin Token	KCS
+89	HarmonyHarmony	ONE
+90	0x0x	ZRX
+91	SiacoinSiacoin	SC
+92	DigiByteDigiByte	DGB
+93	OntologyOntology	ONT
+94	MdexMdex	MDX
+95	Voyager TokenVoyager Token	VGX
+96	HorizenHorizen	ZEN
+97	AnkrAnkr	ANKR
+98	FantomFantom	FTM
+99	SwissBorgSwissBorg	CHSB
+100	ICONICON	ICX
+101	Curve DAO TokenCurve DAO Token	CRV
+102	NanoNano	NANO
+103	Perpetual ProtocolPerpetual Protocol	PERP
+104	OMG NetworkOMG Network	OMG
+105	UMAUMA	UMA
+106	renBTCrenBTC	RENBTC
+107	RevainRevain	REV
+108	Reserve RightsReserve Rights	RSR
+109	LiskLisk	LSK
+110	HUSDHUSD	HUSD
+111	Bitcoin DiamondBitcoin Diamond	BCD
+112	Kava.ioKava.io	KAVA
+113	1inch1inch	1INCH
+114	IOSTIOST	IOST
+115	MinaMina	MINA
+116	ArweaveArweave	AR
+117	RenRen	REN
+118	The SandboxThe Sandbox	SAND
+119	Neutrino USDNeutrino USD	USDN
+120	VergeVerge	XVG
+121	GolemGolem	GLM
+122	BakeryTokenBakeryToken	BAKE
+123	MediBlocMediBloc	MED
+124	WazirXWazirX	WRX
+125	WootradeWootrade	WOO
+126	LoopringLoopring	LRC
+127	StorjStorj	STORJ
+128	LivepeerLivepeer	LPT
+129	Ocean ProtocolOcean Protocol	OCEAN
+130	SKALE NetworkSKALE Network	SKL
+131	Nervos NetworkNervos Network	CKB
+132	VenusVenus	XVS
+133	Alpha Finance LabAlpha Finance Lab	ALPHA
+134	WINkLinkWINkLink	WIN
+135	GnosisGnosis	GNO
+136	GateTokenGateToken	GT
+137	WAXWAX	WAXP
+138	Conflux NetworkConflux Network	CFX
+139	StatusStatus	SNT
+140	MaidSafeCoinMaidSafeCoin	MAID
+141	PAX GoldPAX Gold	PAXG
+142	Fetch.aiFetch.ai	FET
+143	DentDent	DENT
+144	AugurAugur	REP
+145	iExec RLCiExec RLC	RLC
+146	SwipeSwipe	SXP
+147	Origin ProtocolOrigin Protocol	OGN
+148	StratisStratis	STRAX
+149	VeThor TokenVeThor Token	VTHO
+150	ASDASD	BTMX
+151	NumeraireNumeraire	NMR
+152	ConstellationConstellation	DAG
+153	Gemini DollarGemini Dollar	GUSD
+154	MyNeighborAliceMyNeighborAlice	ALICE
+155	StormXStormX	STMX
+156	ErgoErgo	ERG
+157	Injective ProtocolInjective Protocol	INJ
+158	UnibrightUnibright	UBT
+159	Bitcoin Standard Hashrate TokenBitcoin Standard Hashrate Token	BTCST
+160	Band ProtocolBand Protocol	BAND
+161	OrchidOrchid	OXT
+162	ArdorArdor	ARDR
+163	Ontology GasOntology Gas	ONG
+164	TomoChainTomoChain	TOMO
+165	Energy Web TokenEnergy Web Token	EWT
+166	PrometeusPrometeus	PROM
+167	Badger DAOBadger DAO	BADGER
+168	IoTeXIoTeX	IOTX
+169	ReefReef	REEF
+170	SerumSerum	SRM
+171	FUNTokenFUNToken	FUN
+172	SingularityNETSingularityNET	AGIX
+173	SteemSteem	STEEM
+174	Celer NetworkCeler Network	CELR
+175	Uquid CoinUquid Coin	UQC
+176	NKNNKN	NKN
+177	CivicCivic	CVC
+178	MVLMVL	MVL
+179	OrbsOrbs	ORBS
+180	BORABORA	BORA
+181	HiveHive	HIVE
+182	CartesiCartesi	CTSI
+183	BalancerBalancer	BAL
+184	PolymathPolymath	POLY
+185	AragonAragon	ANT
+186	ZKSwapZKSwap	ZKS
+187	AmpleforthAmpleforth	AMPL
+188	CasperCasper	CSPR
+189	DODODODO	DODO
+190	EnzymeEnzyme	MLN
+191	NuCypherNuCypher	NU
+192	RSK Infrastructure FrameworkRSK Infrastructure Framework	RIF
+193	ArkArk	ARK
+194	UltraUltra	UOS
+195	DFI.MoneyDFI.Money	YFII
+196	StrikeStrike	STRK
+197	XYOXYO	XYO
+198	MetadiumMetadium	META
+199	MCOMCO	MCO
+200	DeroDero	DERO
+201	HEXHEX	HEX
+202	Wrapped BNBWrapped BNB	WBNB
+203	stETH (Lido)stETH (Lido)	STETH
+204	Fei ProtocolFei Protocol	FEI
+205	Counos XCounos X	CCXX
+206	Huobi BTCHuobi BTC	HBTC
+207	CreditcoinCreditcoin	CTC
+208	SafeMoonSafeMoon	SAFEMOON
+209	EgorasEgoras	EGR
+210	The Transfer TokenThe Transfer Token	TTT
+211	INO COININO COIN	INO
+212	Bitcoin Cash ABCBitcoin Cash ABC	BCHA
+213	eCasheCash	XEC
+214	DeFiChainDeFiChain	DFI
+215	WhiteCoinWhiteCoin	XWC
+216	NXMNXM	NXM
+217	SymbolSymbol	XYM
+218	Liquity USDLiquity USD	LUSD
+219	BytecoinBytecoin	BCN
+220	Pirate ChainPirate Chain	ARRR
+221	Venus BNBVenus BNB	vBNB
+222	ECOMIECOMI	OMI
+223	ZelwinZelwin	ZLW
+224	yOUcashyOUcash	YOUC
+225	Pundi X[new]Pundi X[new]	PUNDIX
+226	Orbit ChainOrbit Chain	ORC
+227	Kyber Network Crystal LegacyKyber Network Crystal Legacy	KNCL
+228	TitanSwapTitanSwap	TITAN
+229	HedgeTradeHedgeTrade	HEDG
+230	Kyber Network Crystal v2Kyber Network Crystal v2	KNC
+231	Bitpanda Ecosystem TokenBitpanda Ecosystem Token	BEST
+232	Dawn ProtocolDawn Protocol	DAWN
+233	Alchemy PayAlchemy Pay	ACH
+234	ElectroneumElectroneum	ETN
+235	Alien WorldsAlien Worlds	TLM
+236	FraxFrax	FRAX
+237	Mirror ProtocolMirror Protocol	MIR
+238	sUSDsUSD	SUSD
+239	IlluviumIlluvium	ILV
+240	PersistencePersistence	XPRT
+241	RaydiumRaydium	RAY
+242	SologenicSologenic	SOLO
+243	KOKKOK	KOK
+244	Coin98Coin98	C98
+245	Toko TokenToko Token	TKO
+246	Orion ProtocolOrion Protocol	ORN
+247	Doctors CoinDoctors Coin	DRS
+248	Anchor ProtocolAnchor Protocol	ANC
+249	Rocket PoolRocket Pool	RPL
+250	Akash NetworkAkash Network	AKT
+251	KLAYswap ProtocolKLAYswap Protocol	KSP
+252	PlayDappPlayDapp	PLA
+253	Venus BTCVenus BTC	vBTC
+254	LUKSOLUKSO	LYXe
+255	Keep NetworkKeep Network	KEEP
+256	LinearLinear	LINA
+257	SapphireSapphire	SAPP
+258	Yield Guild GamesYield Guild Games	YGG
+259	Render TokenRender Token	RNDR
+260	AudiusAudius	AUDIO
+261	XYOXYO	XYO
+262	dKargodKargo	DKA
+263	ABBC CoinABBC Coin	ABBC
+264	KardiaChainKardiaChain	KAI
+265	Terra Virtua KolectTerra Virtua Kolect	TVK
+266	Smooth Love PotionSmooth Love Potion	SLP
+267	aelfaelf	ELF
+268	TribeTribe	TRIBE
+269	EveripediaEveripedia	IQ
+270	Venus XVSVenus XVS	vXVS
+271	Ethernity ChainEthernity Chain	ERN
+272	Alpaca FinanceAlpaca Finance	ALPACA
+273	BitSharesBitShares	BTS
+274	RadicleRadicle	RAD
+275	MetalMetal	MTL
+276	Phala NetworkPhala Network	PHA
+277	RakonRakon	RKN
+278	ChromiaChromia	CHR
+279	AllianceBlockAllianceBlock	ALBT
+280	CRYPTO20CRYPTO20	C20
+281	WanchainWanchain	WAN
+282	Ampleforth Governance TokenAmpleforth Governance Token	FORTH
+283	PopulousPopulous	PPT
+284	OriginTrailOriginTrail	TRAC
+285	Clover FinanceClover Finance	CLV
+286	JUSTJUST	JST
+287	SyntropySyntropy	NOIA
+288	XeniosCoinXeniosCoin	XNC
+289	Cream FinanceCream Finance	CREAM
+290	Power LedgerPower Ledger	POWR
+291	AlchemixAlchemix	ALCX
+292	UtrustUtrust	UTK
+293	Oasis NetworkOasis Network	ROSE
+294	ApeSwap FinanceApeSwap Finance	BANANA
+295	GitcoinGitcoin	GTC
+296	GalaGala	GALA
+297	Venus ETHVenus ETH	vETH
+298	MATHMATH	MATH
+299	ZEONZEON	ZEON
+300	QuarkChainQuarkChain	QKC
+301	Sport and LeisureSport and Leisure	SNL
+302	KleverKlever	KLV
+303	DigitalBitsDigitalBits	XDB
+304	Lido DAO TokenLido DAO Token	LDO
+305	Sun (New)Sun (New)	SUN
+306	HathorHathor	HTR
+307	Hifi FinanceHifi Finance	MFT
+308	Trust Wallet TokenTrust Wallet Token	TWT
+309	Travala.comTravala.com	AVA
+310	VelasVelas	VLX
+311	StreamrStreamr	DATA
+312	SafePalSafePal	SFP
+313	PolkastarterPolkastarter	POLS
+314	KlerosKleros	PNK
+315	NFTXNFTX	NFTX
+316	Mask NetworkMask Network	MASK
+317	SyscoinSyscoin	SYS
+318	KomodoKomodo	KMD
+319	HxroHxro	HXRO
+320	COTICOTI	COTI
+321	Wrapped NXMWrapped NXM	WNXM
+322	BytomBytom	BTM
+323	RadixRadix	EXRD
+324	Tokenlon Network TokenTokenlon Network Token	LON
+325	LitentryLitentry	LIT
+326	Rari Governance TokenRari Governance Token	RGT
+327	USDX [Kava]USDX [Kava]	USDX
+328	RallyRally	RLY
+329	ElitiumElitium	EUM
+330	STASIS EUROSTASIS EURO	EURS
+331	DiviDivi	DIVI
+332	SecretSecret	SCRT
+333	PEAKDEFIPEAKDEFI	PEAK
+334	AavegotchiAavegotchi	GHST
+335	Crust NetworkCrust Network	CRU
+336	NewscryptoNewscrypto	NWC
+337	CentralityCentrality	CENNZ
+338	RChainRChain	REV
+339	BonfidaBonfida	FIDA
+340	Venus USDCVenus USDC	vUSDC
+341	Dego FinanceDego Finance	DEGO
+342	IRISnetIRISnet	IRIS
+343	KeeperDAOKeeperDAO	ROOK
+344	district0xdistrict0x	DNT
+345	GasGas	GAS
+346	TokenPocketTokenPocket	TPT
+347	MonaCoinMonaCoin	MONA
+348	NewYork ExchangeNewYork Exchange	NYE
+349	ReddCoinReddCoin	RDD
+350	EFFORCEEFFORCE	WOZX
+351	BarnBridgeBarnBridge	BOND
+352	CarryCarry	CRE
+353	Harvest FinanceHarvest Finance	FARM
+354	ChimpionChimpion	BNANA
+355	PAC ProtocolPAC Protocol	PAC
+356	VaiVai	VAI
+357	unFederalReserveunFederalReserve	eRSDL
+358	Loom NetworkLoom Network	LOOM
+359	RSK Smart BitcoinRSK Smart Bitcoin	RBTC
+360	MiL.kMiL.k	MLK
+361	ankrETHankrETH	aEth
+362	saffron.financesaffron.finance	SFI
+363	Automata NetworkAutomata Network	ATA
+364	RAMPRAMP	RAMP
+365	TrustSwapTrustSwap	SWAP
+366	bZx ProtocolbZx Protocol	BZRX
+367	AkropolisAkropolis	AKRO
+368	Sentinel ProtocolSentinel Protocol	UPP
+369	Molecular FutureMolecular Future	MOF
+370	GNYGNY	GNY
+371	MassnetMassnet	MASS
+372	TellorTellor	TRB
+373	KinKin	KIN
+374	Haven ProtocolHaven Protocol	XHV
+375	OxygenOxygen	OXY
+376	Thunder TokenThunder Token	TT
+377	Function XFunction X	FX
+378	DerivaDAODerivaDAO	DDX
+379	LTO NetworkLTO Network	LTO
+380	cVault.financecVault.finance	CORE
+381	FlamingoFlamingo	FLM
+382	CentrifugeCentrifuge	CFG
+383	inSure DeFiinSure DeFi	SURE
+384	AionAion	AION
+385	SuperFarmSuperFarm	SUPER
+386	Beefy.FinanceBeefy.Finance	BIFI
+387	MX TokenMX Token	MX
+388	WELLWELL	WELL
+389	VerasityVerasity	VRA
+390	Basid CoinBasid Coin	BASID
+391	HandshakeHandshake	HNS
+392	EllipsisEllipsis	EPS
+393	Burger SwapBurger Swap	BURGER
+394	EnergiEnergi	NRG
+395	CertiKCertiK	CTK
+396	Standard Tokenization ProtocolStandard Tokenization Protocol	STPT
+397	QcashQcash	QC
+398	WHALEWHALE	WHALE
+399	RequestRequest	REQ
+400	HydraHydra	HYDRA
+401	MXCMXC	MXC
+402	FiroFiro	FIRO
+403	SoraSora	XOR
+404	DAO MakerDAO Maker	DAO
+405	DADDAD	DAD
+406	Shyft NetworkShyft Network	SHFT
+407	FIO ProtocolFIO Protocol	FIO
+408	RaribleRarible	RARI
+409	FC Barcelona Fan TokenFC Barcelona Fan Token	BAR
+410	Super Zero ProtocolSuper Zero Protocol	SERO
+411	QuickSwapQuickSwap	QUICK
+412	DIADIA	DIA
+413	BEPRO NetworkBEPRO Network	BEPRO
+414	GroestlcoinGroestlcoin	GRS
+415	TROYTROY	TROY
+416	SentinelSentinel	DVPN
+417	Alpha Quark TokenAlpha Quark Token	AQT
+418	LGCY NetworkLGCY Network	LGCY
+419	Bloomzed Loyalty Club TicketBloomzed Loyalty Club Ticket	BLCT
+420	StableXSwapStableXSwap	STAX
+421	AdEx NetworkAdEx Network	ADX
+422	MimbleWimbleCoinMimbleWimbleCoin	MWC
+423	HARD ProtocolHARD Protocol	HARD
+424	Steem DollarsSteem Dollars	SBD
+425	TrueFiTrueFi	TRU
+426	API3API3	API3
+427	DxChain TokenDxChain Token	DX
+428	ElastosElastos	ELA
+429	GlitzKoinGlitzKoin	GTN
+430	HumanscapeHumanscape	HUM
+431	HegicHegic	HEGIC
+432	Dvision NetworkDvision Network	DVI
+433	Revolution PopuliRevolution Populi	RVP
+434	RefereumRefereum	RFR
+435	Bella ProtocolBella Protocol	BEL
+436	MANTRA DAOMANTRA DAO	OM
+437	Student CoinStudent Coin	STC
+438	MovieBlocMovieBloc	MBL
+439	Tornado CashTornado Cash	TORN
+440	Morpheus.NetworkMorpheus.Network	MRPH
+441	MarlinMarlin	POND
+442	Neutrino TokenNeutrino Token	NSBT
+443	BluzelleBluzelle	BLZ
+444	PARSIQPARSIQ	PRQ
+445	BeamBeam	BEAM
+446	AXELAXEL	AXEL
+447	Venus BUSDVenus BUSD	vBUSD
+448	LiquityLiquity	LQTY
+449	RedFOX LabsRedFOX Labs	RFOX
+450	Poseidon NetworkPoseidon Network	QQQ
+451	KadenaKadena	KDA
+452	EverestEverest	ID
+453	Manchester City Fan TokenManchester City Fan Token	CITY
+454	WaltonchainWaltonchain	WTC
+455	BTU ProtocolBTU Protocol	BTU
+456	Bounce TokenBounce Token	AUCTION
+457	AlitasAlitas	ALT
+458	REVVREVV	REVV
+459	AergoAergo	AERGO
+460	Celo DollarCelo Dollar	CUSD
+461	DockDock	DOCK
+462	AnyswapAnyswap	ANY
+463	MetronomeMetronome	MET
+464	BitKanBitKan	KAN
+465	ContentosContentos	COS
+466	xDaixDai	STAKE
+467	UltiledgerUltiledger	ULT
+468	Frax ShareFrax Share	FXS
+469	ARPA ChainARPA Chain	ARPA
+470	ChainXChainX	PCX
+471	Deeper NetworkDeeper Network	DPR
+472	DigixDAODigixDAO	DGD
+473	GXChainGXChain	GXC
+474	APENFTAPENFT	NFT
+475	Rai Reflex IndexRai Reflex Index	RAI
+476	AutoAuto	AUTO
+477	YIELD AppYIELD App	YLD
+478	AMO CoinAMO Coin	AMO
+479	Bitball TreasureBitball Treasure	BTRS
+480	Dusk NetworkDusk Network	DUSK
+481	NULSNULS	NULS
+482	Decentral GamesDecentral Games	DG
+483	CoinEx TokenCoinEx Token	CET
+484	ValobitValobit	VBIT
+485	MithrilMithril	MITH
+486	Vulcan Forged PYRVulcan Forged PYR	PYR
+487	FrontierFrontier	FRONT
+488	VerusCoinVerusCoin	VRSC
+489	Darma CashDarma Cash	DMCH
+490	ShareTokenShareToken	SHR
+491	v.systemsv.systems	VSYS
+492	Belt FinanceBelt Finance	BELT
+493	Moss CoinMoss Coin	MOC
+494	Unifi Protocol DAOUnifi Protocol DAO	UNFI
+495	PowerPoolPowerPool	CVP
+496	SafeSafe	SAFE
+497	DragonchainDragonchain	DRGN
+498	DSLA ProtocolDSLA Protocol	DSLA
+499	OxenOxen	OXEN
+500	CargoXCargoX	CXO
